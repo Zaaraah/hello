@@ -8,5 +8,3 @@ get '/hello' do
 end
 
 lalalalala
-
-lala
