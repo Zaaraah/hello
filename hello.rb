@@ -1,8 +1,8 @@
 require 'Sinatra'
 get '/' do
-	"Hello"
+	"<h1>Hello girls</h1>"
 end
 
 get '/hello' do
-	"  "
+	"  hi hi hi hi"
 end
