@@ -4,5 +4,5 @@ get '/' do
 end
 
 get '/hello' do
-	"  "
+	"  hi hi hi hi"
 end
