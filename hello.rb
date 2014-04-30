@@ -2,3 +2,7 @@ require 'Sinatra'
 get '/' do
 	"Hello"
 end
+
+get '/hello' do
+	"  "
+end
